@@ -48,3 +48,4 @@ Instagram: https://www.instagram.com/sliitfoss/
 
 Twitter: https://twitter.com/fosssliit
 
+LinkedIn: https://www.linkedin.com/company/sliit-foss-community/mycompany/
