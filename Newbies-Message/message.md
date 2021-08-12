@@ -42,10 +42,10 @@ There's mainly two avenues you can follow
 
 ### Links to our Socials:
 
-Facebook: https://www.facebook.com/sliitfoss/?ref=page_internal 
+Facebook: https://www.facebook.com/sliitfoss
 
-Instagram: https://www.instagram.com/sliitfoss/
+Instagram: https://www.instagram.com/sliitfoss
 
 Twitter: https://twitter.com/fosssliit
 
-LinkedIn: https://www.linkedin.com/company/sliit-foss-community/mycompany/
+LinkedIn: https://www.linkedin.com/company/sliit-foss-community
